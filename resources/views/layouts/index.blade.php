@@ -205,6 +205,7 @@
   </section>
   <!-- End Portfolio Seciton -->
 
+  
   <!-- Start Blog Seciton -->
   <section id="blog">
     <div class="st-height-b100 st-height-lg-b80"></div>
