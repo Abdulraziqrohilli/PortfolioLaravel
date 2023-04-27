@@ -13,6 +13,7 @@
     <div class="st-hero st-style1 st-ripple-version">
       <div class="container">
         <div class="st-hero-text">
+          
           <h3>Hello, I’m</h3>
           <h1>{{$users->f_name}}<br>{{$users->l_name}}
           </h1>
